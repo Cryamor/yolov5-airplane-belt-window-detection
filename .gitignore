@@ -1,0 +1,7 @@
+/result/
+/.idea
+/__pycache__
+/runs/
+/weights/
+/.vscode
+/test/
